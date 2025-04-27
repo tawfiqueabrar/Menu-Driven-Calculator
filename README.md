@@ -32,10 +32,6 @@ Error Handling
 	•	If division or modulus by zero is attempted, the program will display an error message: Cannot divide by zero!.
 	•	The modulus operation works only with integers. If selected, the program will ask for integer inputs.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
 Contributing
 
 If you have suggestions for improvements or encounter any issues, feel free to open an issue or submit a pull request. Contributions are always welcome!
